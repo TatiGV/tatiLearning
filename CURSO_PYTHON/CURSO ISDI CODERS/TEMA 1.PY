@@ -1,3 +1,5 @@
+
+
 '''
 - Comentarios: en JS hay dos formas de hacerlo, como puedes ver a continuación:
 
@@ -74,13 +76,6 @@ console.log(fullName);  // output: John Wick
 let greetings = 'Hello, ';
 let fullMessage = greetings.concat(fullName);
 console.log(fullMessage);  // output: ¡Hello, John Wick!
-
-
-
-
-
-
-
 
 
 '''
